@@ -1,0 +1,38 @@
+@media (max-width:1024px){
+    .nav span{
+        display: inline;
+        /* padding-left: 140px; */
+    }
+
+    .nav .list ul li{
+        display: none;
+    }
+
+    .hotel{
+        margin-top: 20px;
+    }
+
+    .work-info button{
+        width: 100%;
+    }
+
+    .us button{
+        width: 100%;
+    }
+
+    iframe{
+        margin-top: 20px;
+        width: 100%;
+        height: 200px;
+    }
+
+    .contact input{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .contact button{
+        width: 100%;
+        
+    }
+}

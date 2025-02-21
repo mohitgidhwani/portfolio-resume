@@ -1,0 +1,95 @@
+@media (max-width:1280px){
+    .list{
+        display: none;
+    }
+
+
+    .menu{
+        display: block;
+    }
+
+    .details{
+
+        display: block  ;
+
+    }
+
+    .details button{
+        width: 100%;
+    }
+  
+
+    .room-detials{
+        display: block;
+    }
+
+    .image-text p{
+        width: 100%;
+    }
+
+    .image-text h2 , .first-room{
+        width: 100%;
+    }
+
+    .first-image{
+        margin-bottom: 20px;
+    }
+
+    .first-image , .second-image{
+        width: 100%;
+    
+    }
+
+
+    .book-txt{
+        width: 100%;
+        
+    }
+
+    .txt-btn button{
+        width: 100%;
+        margin-left: 0;
+    }
+
+   .dishes{
+    display: inline;
+}
+
+.left-dish{
+    
+    margin-bottom: 20px;
+}
+
+.dish-img{
+    /* background-position: -325px 0px; */
+    /* width: 100%; */
+    margin-bottom: 20px;
+}
+    
+
+   .dish{
+    width: 100%;
+    display: block;
+   }
+
+   .dish-img span i{
+    right: 445px;
+   }
+    
+
+    
+}
+
+@media (max-width:768px){
+    .suite-room{
+        width: 100%;
+    }
+
+
+    .dish-img span i{
+        right: 50%;
+        margin-right: -50px;
+    }
+    
+  
+}

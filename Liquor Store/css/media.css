@@ -1,0 +1,25 @@
+@media (max-width:1280px){
+    .header .social  .sign{
+        margin-left: 300px;
+    }
+    .menu{
+        display: none;
+    }
+
+   .nav .short li{
+    display: inline;
+   }
+
+   .container2 .second p{
+    width: 100%;
+    padding-bottom: -100px;
+   }
+
+   .second{
+    margin-bottom: 50px;
+   }
+
+   .blog-text p{
+    width: 100%;
+   }
+}

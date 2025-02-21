@@ -1,0 +1,104 @@
+@media (max-width:575.98px){
+
+  .logo{
+    display: block;
+    text-align: center;
+  }
+
+
+  .hero h1{
+    text-align: center;
+    padding: 0;
+  }  
+
+  .details input{
+    width: 100%;
+  }
+
+  .details p{
+    text-align: center;
+  }
+
+  .details button{
+    width: 100%;
+  }
+
+  .brand-sc h4{
+    text-align: center;
+  }
+
+  .toyota{
+    margin: auto;
+    width: 100%;
+  }
+
+  .buttons button{
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .audi{
+    width: 100%;
+  }
+
+  .work-img img{
+    width: 100%;
+    padding: 0;
+  }
+
+  .browse{
+    width: 100%;
+    transform: translate(0,0);
+  }
+
+  .service{
+    gap: 30px;
+  }
+
+  .customer-sc{
+    display: none;
+  }
+
+  .app {
+    text-align: center;
+  }
+
+  .app p{
+    padding: 20px 0;
+  }
+
+  .app img{
+    margin: 10px 0;
+  }
+
+  .footer{
+    padding: 43px 0;
+    text-align: center;
+    display: block;
+    text-align: center;
+  }
+
+  .footer img{
+    margin-bottom: 20px;
+  }
+
+
+  .list ul li{
+    /* padding: 0; */
+    text-align: center;
+    display: none;
+  }
+
+  .list ul li a{
+    display: block;
+    text-align: center;
+    padding: 0;
+  }
+
+  .inneraudi{
+    padding: 0;
+    width: 100%;
+  }
+
+
+}

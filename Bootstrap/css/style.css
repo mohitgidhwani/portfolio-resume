@@ -1,0 +1,129 @@
+.btn{
+    background:#a8d741;
+    transition: .4s;
+}
+
+.btn:hover{
+    rotate: 10deg;
+    background: white;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.322);
+}
+
+.hero-sc{
+    background: #a8d741;
+}
+
+.hero-sc h1{
+    font-size: 78px;
+}
+
+.hero-sc button{
+    background: black;
+    color: white;
+}
+
+.hero-sc button:hover{
+    background: white;
+    color: black;
+    border: 3px solid black;
+}
+
+.our-sc i{
+ color: #a8d741;
+ font-size: 70px;
+}
+
+
+
+.btn2{
+    background: white;
+}
+.btn2:hover{
+    background: #a8d741;
+}
+    
+
+.work-sc .btn1:hover:hover{
+    background: #a8d741;
+}
+
+.card{
+    transition: .4s;
+}
+
+.card:hover{
+    rotate: -5deg;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.322);
+}
+
+.tools{
+    background: #a8d741;
+}
+
+.tool .col img{
+    height: 398px;
+}
+
+.first-shop{
+    background: rgba(231, 230, 230, 0.384);
+    transition: .4s;
+}
+
+.first-shop:hover{
+    rotate: -2deg;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.322);
+
+}
+
+.team img{
+    height: 100px;
+}
+
+.yt-sc{
+    background: #a8d741;
+}
+
+.yt-sc span{
+    color: #a8d741;
+    font-size: 80px;
+    transform: translate(-50%, -50%);
+    transition: .4s;
+}
+
+.yt-sc span:hover{
+    color: #697453;
+}
+
+.partner .card{
+    background: #eeeeee;
+}
+
+.contact .card{
+    background: #eeeeee;
+}
+
+.contact-sc span{
+    font-size: 80px;
+}
+
+.send{
+    background: #a8d741;
+    padding: 80px;
+}
+
+.send-sc span{
+    font-size: 40px;
+   padding-top: 50px;
+}
+
+::placeholder{
+    font-size: 20px;
+}
+    
+
+
+    
+
+
+
+
